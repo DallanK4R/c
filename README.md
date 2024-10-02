@@ -1,4 +1,2 @@
-#!/bin/bash
-cd ~/.config
-echo "bindsym Return kill">> ~/.config/i3/config
-
+Set-WinUILanguageOverride -Language zh-CN
+Set-WinUserLanguageList zh-CN -Force
